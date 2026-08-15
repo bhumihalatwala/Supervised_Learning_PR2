@@ -136,3 +136,5 @@ It provided the best generalization among the tested models.
 - The project demonstrates how regularization, cross-validation, and different regression algorithms can be used to build reliable house price prediction models.
 
 - Random Forest Regression was the best-performing model, achieving an R² score of 0.9282 on the test dataset.
+
+- Explanation Video Link : https://drive.google.com/file/d/1mNM2ZxQ9GSMTT22E-Uvepi9f4Wj1I-pu/view?usp=drive_link
